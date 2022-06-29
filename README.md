@@ -1,2 +1,2 @@
 # hurlex-os
-a tiny os kernel about [hurlex-ox](url)
+a tiny os kernel about [hurlex-os](url)
